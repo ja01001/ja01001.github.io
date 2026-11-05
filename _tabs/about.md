@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-안녕하세요, **ja01001**입니다.
+안녕하세요, **iins**입니다.
 
 개발하며 배운 것들을 기록하는 기술 블로그입니다.
 
@@ -14,4 +14,4 @@ order: 4
 
 ## 연락처
 
-- GitHub: [ja01001](https://github.com/ja01001)
+- GitHub: [iins](https://github.com/ja01001)
