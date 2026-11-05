@@ -11,24 +11,25 @@ author:
   name: ja01001
   say-hello: Hello, I’m <strong> Dev</strong>
   bio: Dev Blog
+  # image: profile.png # images/ 폴더에 넣은 프로필 이미지 파일명
 
 
 #-------------------------------
 # Contact links
-twitter: https://twitter.com/ # Add your Twitter handle
+# twitter: https://twitter.com/your-id # Add your Twitter handle
 facebook: https://facebook.com/ja01001 # Add your Facebook handle
 instagram: https://instagram.com/ja01001 # Add your Instagram handle
 
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: # add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
 # Instagram Feed
-instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
-instagram-profile: artemsheludko_ # Add instagram username
+# Instafeed(구 Instagram API)는 서비스가 종료되어 비활성화했습니다.
+instafeed: false
 
 
 #-------------------------------

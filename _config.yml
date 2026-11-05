@@ -8,6 +8,7 @@ permalink: pretty
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-feed
   - jekyll/tagging
 
 paginate: 5
@@ -20,6 +21,12 @@ defaults:
       path: '_pages'
     values:
       permalink: /:basename:output_ext
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
 
 include:
   - _pages
